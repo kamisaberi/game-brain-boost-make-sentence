@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <!--<item name="btn1" playType="id"/>-->
+    <!--<item name="btn2" playType="id"/>-->
+    <!--<item name="btn3" playType="id"/>-->
+    <!--<item name="btn4" playType="id"/>-->
+    <!--<item name="btn5" playType="id"/>-->
+    <!--<item name="btn6" playType="id"/>-->
+    <!--<item name="btn7" playType="id"/>-->
+    <!--<item name="btn8" playType="id"/>-->
+    <!--<item name="btn9" playType="id"/>-->
+    <!--<item name="btn10" playType="id"/>-->
+    <!--<item name="btn11" playType="id"/>-->
+    <!--<item name="btn12" playType="id"/>-->
+    <!--<item name="btn13" playType="id"/>-->
+    <!--<item name="btn14" playType="id"/>-->
+    <!--<item name="btn15" playType="id"/>-->
+    <!--<item name="btn16" playType="id"/>-->
+    <!--<item name="btn17" playType="id"/>-->
+    <!--<item name="btn18" playType="id"/>-->
+    <!--<item name="btn19" playType="id"/>-->
+    <!--<item name="btn20" playType="id"/>-->
+
+    <string name="app_id">493182885819</string>
+    <string name="package_name">com.parsveda.threeseconds</string>
+    <string name="achievement_test_1">CgkIu7_2n60OEAIQAQ</string>
+    <string name="achievement_test_2">CgkIu7_2n60OEAIQAg</string>
+    <string name="achievement_test_3">CgkIu7_2n60OEAIQAw</string>
+    <string name="achievement_test_4">CgkIu7_2n60OEAIQBA</string>
+    <string name="achievement_test_5">CgkIu7_2n60OEAIQBQ</string>
+    <string name="leaderboard_leaders">CgkIu7_2n60OEAIQBg</string>
+
+</resources>

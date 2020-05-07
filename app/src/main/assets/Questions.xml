@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Questions>
+    <Question id="0" value="WHAT DO YOU DO?">
+        <Answers>
+            <Answer id="0" value="I’m a student."/>
+            <Answer id="0" value="I work in a bank."/>
+            <Answer id="0" value="I’m unemployed at the moment."/>
+            <Answer id="0" value="I run my own business."/>
+            <Answer id="0" value="I’m retired now."/>
+        </Answers>
+    </Question>
+    <Question id="0" value="ARE YOU MARRIED?">
+        <Answers>
+            <Answer id="0" value="I’m divorced."/>
+            <Answer id="0" value="I’m engaged"/>
+            <Answer id="0" value="No, but I’m in a relationship."/>
+            <Answer id="0" value="Nope, I’m single."/>
+        </Answers>
+    </Question>
+    <Question id="0" value="WHY ARE YOU STUDYING ENGLISH?">
+        <Answers>
+            <Answer id="0" value="For work."/>
+            <Answer id="0" value="So I can communicate when I travel."/>
+            <Answer id="0" value="I love learning new languages."/>
+            <Answer id="0" value="Because I’d like to immigrate to the U.S."/>
+            <Answer id="0" value="I’m thinking of studying in England."/>
+        </Answers>
+    </Question>
+    <Question id="0" value="WHERE/HOW DID YOU LEARN ENGLISH?">
+        <Answers>
+            <Answer id="0" value="I took classes for three years."/>
+            <Answer id="0" value="I did an intensive course."/>
+            <Answer id="0" value="I’ve been studying on my own."/>
+            <Answer id="0" value="You can also say “studying by myself.”"/>
+            <Answer id="0" value="I picked it up from movies and songs."/>
+            <Answer id="0" value="My girlfriend taught me."/>
+        </Answers>
+    </Question>
+    <Question id="0" value="WHAT DO YOU DO IN YOUR FREE TIME?">
+        <Answers>
+            <Answer id="0" value="I don’t have any free time!"/>
+            <Answer id="0" value="I usually hang out with friends."/>
+            <Answer id="0" value="I go running a lot."/>
+            <Answer id="0" value="I do volunteer work."/>
+            <Answer id="0" value="I like reading and relaxing at home."/>
+        </Answers>
+    </Question>
+    <Question id="0" value="WHAT’S THE WEATHER LIKE? / HOW’S THE WEATHER?">
+        <Answers>
+            <Answer id="0" value="Hot and humid."/>
+            <Answer id="0" value="It’s pouring, take an umbrella."/>
+            <Answer id="0" value="Gorgeous, a perfect summer day!"/>
+        </Answers>
+    </Question>
+    <Question id="0" value="WHAT TIME IS IT? / DO YOU HAVE THE TIME?">
+        <Answers>
+            <Answer id="0" value="It’s ten o’clock."/>
+            <Answer id="0" value="It’s half past four."/>
+            <Answer id="0" value="This means 4:30"/>
+            <Answer id="0" value="It’s a quarter to twelve."/>
+            <Answer id="0" value="Let me check my phone."/>
+            <Answer id="0" value="Sorry, I don’t know."/>
+        </Answers>
+    </Question>
+    <Question id="0" value="CAN I HELP YOU? / DO YOU NEED ANY HELP?">
+        <Answers>
+            <Answer id="0" value="No thanks, I’m just browsing."/>
+            <Answer id="0" value="Yes, do you have this in a larger size?"/>
+            <Answer id="0" value="Yes, where are the try-on rooms?"/>
+            <Answer id="0" value="Yeah, can you tell me how much this is?"/>
+            <Answer id="0" value="Yeah, I’m looking for something under $30."/>
+        </Answers>
+    </Question>
+    <Question id="0" value="HOW’S IT GOING?">
+        <Answers>
+            <Answer id="0" value="Great! Couldn’t be better!"/>
+            <Answer id="0" value="This means that everything is excellent."/>
+            <Answer id="0" value="Fine. How are things with you?"/>
+            <Answer id="0" value="Not bad."/>
+            <Answer id="0" value="This means that things are OK."/>
+            <Answer id="0" value="I can’t complain."/>
+            <Answer id="0" value="Do you really wanna know?"/>
+        </Answers>
+    </Question>
+    <Question id="0" value="HOW ARE YOU FEELING?">
+        <Answers>
+            <Answer id="0" value="Great! Never better."/>
+            <Answer id="0" value="I’m all right."/>
+            <Answer id="0" value="Like I need a vacation."/>
+            <Answer id="0" value="A little depressed."/>
+            <Answer id="0" value="Really awful."/>
+        </Answers>
+    </Question>
+    <Question id="0" value="HOW WAS YOUR DAY?">
+        <Answers>
+            <Answer id="0" value="Really good!"/>
+            <Answer id="0" value="Pretty uneventful."/>
+            <Answer id="0" value="Very productive."/>
+            <Answer id="0" value="Super busy."/>
+            <Answer id="0" value="A total nightmare."/>
+        </Answers>
+    </Question>
+    <Question id="0" value="DID YOU LIKE THE MOVIE?">
+        <Answers>
+            <Answer id="0" value="It was fantastic."/>
+            <Answer id="0" value="It was terrible."/>
+            <Answer id="0" value="It wasn’t bad."/>
+            <Answer id="0" value="It’s one of the best I’ve ever seen."/>
+        </Answers>
+    </Question>
+    <Question id="0" value="HOW WAS THE PARTY?">
+        <Answers>
+            <Answer id="0" value="Crazy, it was absolutely packed."/>
+            <Answer id="0" value="It was a good time."/>
+            <Answer id="0" value="Small, but fun."/>
+            <Answer id="0" value="There was hardly anybody there."/>
+        </Answers>
+    </Question>
+    <Question id="0" value="CAN YOU GIVE ME A HAND?">
+        <Answers>
+            <Answer id="0" value="Of course!"/>
+            <Answer id="0" value="I’d be glad to."/>
+            <Answer id="0" value="Will it take long?"/>
+            <Answer id="0" value="Sure, just a sec."/>
+            <Answer id="0" value="Sorry, I’m a bit busy at the moment."/>
+        </Answers>
+    </Question>
+    <Question id="0" value="WHAT HAVE YOU BEEN UP TO LATELY?">
+        <Answers>
+            <Answer id="0" value="I’ve been working a lot."/>
+            <Answer id="0" value="Mostly studying."/>
+            <Answer id="0" value="I’ve been taking it easy."/>
+            <Answer id="0" value="Planning my summer vacation."/>
+            <Answer id="0" value="Nothing much."/>
+        </Answers>
+    </Question>
+    <Question id="0" value="WHAT’S THE MATTER?">
+        <Answers>
+            <Answer id="0" value="Oh, I’m just having a rough day."/>
+            <Answer id="0" value="I’m not feeling so good."/>
+            <Answer id="0" value="I’d rather not talk about it."/>
+            <Answer id="0" value="Nothing, I’m fine."/>
+        </Answers>
+    </Question>
+    <Question id="0" value="WHAT WOULD YOU LIKE TO DRINK?">
+        <Answers>
+            <Answer id="0" value="Iced tea, please."/>
+            <Answer id="0" value="Just water for me."/>
+            <Answer id="0" value="What do you have?"/>
+            <Answer id="0" value="Could we see the wine list?"/>
+            <Answer id="0" value="Nothing for me, thanks."/>
+        </Answers>
+    </Question>
+    <Question id="0" value="ARE YOU READY TO ORDER?">
+        <Answers>
+            <Answer id="0" value="I think we need a little more time."/>
+            <Answer id="0" value="What are the specials today?"/>
+            <Answer id="0" value="I just have a couple of questions."/>
+        </Answers>
+    </Question>
+    <Question id="0" value="IS EVERYTHING OK?">
+        <Answers>
+            <Answer id="0" value="Yes, everything’s fine, thanks."/>
+            <Answer id="0" value="It’s all delicious!"/>
+            <Answer id="0" value="Could we have some more water, please?"/>
+            <Answer id="0" value="I’m still waiting for my side dish."/>
+            <Answer id="0" value="my food is kinda cold."/>
+        </Answers>
+    </Question>
+    <Question id="0" value="CAN I GET YOU ANYTHING ELSE?">
+        <Answers>
+            <Answer id="0" value="Two decaf coffees, please."/>
+            <Answer id="0" value="Just the check, please."/>
+            <Answer id="0" value="I’ll have a slice of apple pie."/>
+            <Answer id="0" value="I think we’re just about done."/>
+        </Answers>
+    </Question>
+</Questions>

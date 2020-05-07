@@ -1,0 +1,90 @@
+Are you a doctor?
+Yes, I am.
+No, I'm a nurse.
+
+Is he from Colombia?
+Yes, he is
+No, he isn't.
+No, he's from Venezuela.
+
+Is it time to go?
+Yes, it is.
+No, it isn't.
+Not yet.
+
+Is she married?
+Yes, she is.
+No, she isn't.
+I don't know.
+
+Are they here yet?
+Yes, they are.
+No, they aren't.
+
+Do you live in Oklahoma?
+Yes, I do.
+No, I don't.
+No, I live in Texas.
+
+Does she drink coffee?
+Yes, she does.
+No, she doesn't.
+No, she drinks tea.
+
+Does it fly?
+Yes, it does.
+No, I don't think so.
+
+Do you need some help?
+Yes, I do.
+No, I'm fine.
+
+Can I have this?
+Yes, you can.
+No, you can't.
+
+Should we go?
+Yeah.
+Okay.
+No, not yet.
+
+Could you help me?
+Sure.
+No, sorry.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
